@@ -1,9 +1,8 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Pedro!
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied a BSc Computer Science(Artificial Intelligence)<br/>
-💭 Currently learning specialising in Back-end software engineering <br/>
+👨🏿‍🎓 Studied a BSc Computer Science (Artificial Intelligence)<br/>
+💭 Currently specializing in Back-end software engineering<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=pedrocor12&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
