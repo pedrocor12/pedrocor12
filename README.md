@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Pedro!
 👨🏿‍🎓 Graduate in Computer Science (Artificial Intelligence)<br/>
-💭 Currently specializing in Back-end software engineering<br/>
+💭 Constantly learning more about software engineering, specialising in back-end but never scared to touch front-end and achiquire more knowledge in both sides of the coin.<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 
