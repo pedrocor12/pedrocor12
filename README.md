@@ -5,7 +5,7 @@
 💭 Currently specializing in Back-end software engineering<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=pedrocor12&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
