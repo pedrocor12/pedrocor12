@@ -1,7 +1,7 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Pedro!
-👨🏿‍🎓 Studied a BSc Computer Science (Artificial Intelligence)<br/>
+👨🏿‍🎓 Graduate in Computer Science (Artificial Intelligence)<br/>
 💭 Currently specializing in Back-end software engineering<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
