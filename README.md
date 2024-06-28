@@ -7,7 +7,7 @@
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 
 
-# 💻 My Current Tech Stack
+# Current Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
