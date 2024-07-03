@@ -1,27 +1,28 @@
-<!-- Level 3: Add custom code -->
+<h1 align="center">Hi 👋, I'm Pedro</h1>
+<h3 align="center">A full-stack software engineer based in London</h3>
 
-# 👋 Hi, I'm Pedro!
-👨🏿‍🎓 Graduate in Computer Science (Artificial Intelligence)<br/>
-💭 I am continually learning more about software engineering, specialising in back-end development but always eager to explore front-end technologies and acquire knowledge in both areas.<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrocor12&label=Profile%20views&color=0e75b6&style=flat" alt="pedrocor12" /> </p>
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+- 🔭 I’m currently working on **this page**
+
+- 🌱 I’m currently learning **react, node.js**
+
+- 👯 I’m looking to collaborate on **anything**
+
+- 👨‍💻 All of my projects are available at [https://devportfoliopedro.netlify.app](https://devportfoliopedro.netlify.app)
+
+- 📫 How to reach me **pintow.pedrow@gmail.com**
+
+- 📄 Know about my experiences [resumelink.link]()
+
+- ⚡ Fun fact **I love basketball**
 
 
-# Current Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-# 💻 Tech I've used previously
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrocor12&show_icons=true&theme=dark&locale=en&layout=compact" alt="pedrocor12" /></p>
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dr-frankiestein&show_icons=true&theme=dark&locale=en" alt="dr-frankiestein" /></p>-->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrocor12&theme=dark" alt="pedrocor12" /></p>
