@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrocor12&label=Profile%20views&color=0e75b6&style=flat" alt="pedrocor12" /> </p>
 
-- 🔭 I’m currently working on **this page**
+- 🔭 I’m currently working on [https://devportfoliopedro.netlify.app](https://devportfoliopedro.netlify.app)
 
 - 🌱 I’m currently learning **react, node.js**
 
