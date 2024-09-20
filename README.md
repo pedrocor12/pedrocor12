@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [https://devportfoliopedro.netlify.app](https://devportfoliopedro.netlify.app)
 
-- 🌱 I’m currently learning **golang**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [https://devportfoliopedro.netlify.app](https://devportfoliopedro.netlify.app)
 
